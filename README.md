@@ -3,7 +3,7 @@
 ## Age: 15
 <p>Student</p>
 <a href=""https://19383562965.github.io/Portfolio/>My portfolio</a>
-**Skills:**
+##Skills:
 
 ## [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
