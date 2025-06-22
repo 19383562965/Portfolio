@@ -2,7 +2,7 @@
 # 👋Hi, my name is Timurs!
 ## Age: 15
 <p>Student</p>
-**https://19383562965.github.io/Portfolio/**
+https://19383562965.github.io/Portfolio/
 **Skills:**
 
 ## [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
